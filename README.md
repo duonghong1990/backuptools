@@ -5,3 +5,5 @@ How to use
 2. Run python drive.py it will ask permit in browser and it will create saved_credentials.json
 
 ps: You can use supervisor to monitor process and set schedule with cronjob in os
+
+Rate it if you like :)
